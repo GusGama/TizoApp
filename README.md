@@ -1,0 +1,2 @@
+# TizoApp
+aplicacion de fotos
